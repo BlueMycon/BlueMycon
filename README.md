@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BlueMycon/BlueMycon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello! I'm Kenny, a full-stack software engineer with a background in mathematics and philosophy. I'm familiar with both Javascript and Python stacks.\
+🔭 My most recent professional experience was working primarily in Python/Django, but alas the codebase is private so you will not be able to see that in my repos.\
+⚙️ I’m currently doing some freelancing and working on a decentralized library application.\
+🌱 Right now I'm learning TypeScript, Tailwind, and Next.js.\
+🤝 I'm looking to collaborate on open source projects, and open to working either remote or in person.\
+📫 Feel free to reach me: kenny.burgher@gmail.com.
